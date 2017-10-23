@@ -1,0 +1,23 @@
+Lastenheft
+
+
+    Funktionale Anfordungen
+    	Das System "Digitales Parkhaus" muss fähig sein die Zahl der parkenden Fahrzeuge zu erfassen.
+    	Unter der Bedingung dass das Parkhaus nicht voll ist, muss das System "Digitales Parkhaus" fähig sein das Einfahren eines Fahrzeugs durch das Hochfahren der Schranke zu ermöglichen.
+    	Unter der Bedingung dass das Parkhaus voll ist, muss das System "Digitales Parkhaus" fähig sein das Einfahren eines Fahrzeugs durch das Untenhalten der Schranken zu verwähren.
+    	Das System Digitales Parkhaus muss fähig sein Parkgebühren entgegenzunehmen.
+    	Unter der Bedingung dass kein Notfall vorliegt, muss das System "Digitales Parkhaus" fähig sein vor Ausfahrt eines Fahrzeugs die Bezahlprüfung durchzuführen.
+    	Unter der Bedingung dass ein Notfall vorliegt oder die Bezahlprüfung positiv ausfiel, muss das System die Ausfahrt eines Fahrzeugs durch Hochfahren der Schranke ermöglichen.
+		Das System "Digitales Parkhaus" soll die Möglichkeit bieten die einfahrenden Fahrzeuge auf freie Parkplätze hinzuweisen.
+    	Das System "Digitales Parkhaus" soll die Möglichkeit bieten den Ticketpreis zu verändern.
+    	Das System "Digitales Parkhaus" soll die Möglichkeit bieten Öffnungszeiten festzulegen.
+    	Das System "Digitales Parkhaus" soll die Möglichkeit bieten die Anzahl der freien Stellplätze abzurufen.
+    Nicht-Funktionale Anfordungen
+    	Das System "Digitales Parkhaus" muss fähig sein Brände zu erkennen.
+    	Das System "Digitales Parkhaus" muss fähig sein Betriebsabläufe schnell zu bewältigen.
+    Technische Anforderungen
+    	Das System "Digitales Parkhaus" soll in Java programmiert sein.
+    	Das System "Digitales Parkhaus" muss macOS lauffähig sein.
+    	Day System "Digitales Parkhaus" wird kein GUI haben.
+    Rahmenbedingungen
+    	Das System "Digitales Parkhaus" muss barrierefreie Kassenautomaten bereitstellen.
