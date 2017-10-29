@@ -1,0 +1,16 @@
+1) Als Kunde möchte ich in dem "Digitalisierten Parkhaus" parken, um mein Fahrzeug sicher abzustellen
+2) Als Kunde benötige ich in dem "Digitalisierten Parkhaus" freie Stellplätze, um mein Fahrzeug abstellen zu können
+3) Als Kunde möchte ich in dem "Digitalisierten Parkhaus" Kassenautomaten, um sicher und schnell zu bezahlen
+4) Als Kunde möchte ich in dem "Digitalisierten Parkhaus" mehrere Kassenautomaten auf jeder Etage haben, um schnell zu bezahlen und nicht so lange Wege bis zu nächsten Kassenautomat habe.
+5) Als Kunde möchte ich in dem "Digitalisierten Parkhaus" Aufzüge, um schnell und unproblematisch die einzelnen Stockwerke zu erreichen
+6) Als Mitarbeiter möchte ich in dem "Digitalisierten Parkhaus" Aufzüge, um schnell die einzelnen Stockwerke zu erreichen und meinen Tätigkeiten nachkommen
+7) Als Mitarbeiter möchte ich in dem "Digitalisierten Parkhaus" Mitarbeiterparkplätze, um jederzeit nah an der Arbeit parken zu können
+8) Als Kunde benötige ich in dem "Digitalisierten Parkhaus" Informationen über freie Stellplätze, um zu wissen, ob dort eine Parkmöglichkeit vorhanden ist.
+9) Als Kunde möchte ich in dem "Digitalisierten Parkhaus" eine Signallampe auf den einzelnen Stationen über den Stellplätze, um auf den ersten Blick zu sehen, ob auf dieser Etage freie Stellplätze vorhanden sind
+10) Als Kunde möchte ich in dem "Digitalisierten Parkhaus" ein Treppenhaus, damit ich nicht abhängig von dem Aufzug bin
+11) Als Eigentümer möchte ich in dem "Digitalisierten Parkhaus" immer Zutritt haben, falls ein Notfall ist
+12) Als Schrankenwärter muss ich die Schränke ohne Probleme öffnen können, um Fahrzeuge einfahren zu lassen.
+13) Als Schrankenwärter benötige ich die Information von dem Kassierer, ob das Fahrzeug die Parkgebühren bezahlt hat und das Parkhaus verlassen darf.
+14) Als Kassierer benötige ich die Parkzeit, um die Parkgebühren berechnen zu können.
+15) Als Manager benötige ich die genaue Kapazität der Stellplätze im Parkhaus, um die Information zu haben, wann ein Parkhaus voll ist.
+16) Als Manager benötige ich die genau Anzahl einfahrender Fahrzeuge, um festzustellen, ob noch frei Stellplätze vorhanden sind.
